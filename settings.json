@@ -1,0 +1,38 @@
+{
+    "editor.detectIndentation": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+    "editor.tabSize": 4,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+
+    "indentRainbow.colorOnWhiteSpaceOnly": true, // false is the default
+    "indentRainbow.colors": [
+        "rgba(255, 215, 0, 0.07)",
+        "rgba(218, 112, 214, 0.07)",
+        "rgba(135, 206, 250, 0.07)"
+    ],
+    // "indentRainbow.colors": [
+    // "rgba(255, 0 , 0,0.3)",
+    // "rgba(255, 255, 0,0.3)",
+    // "rgba(255, 127, 0,0.3)",
+    // "rgba(0, 255, 0,0.3)",
+    // "rgba(0, 0, 255,0.3)",
+    // "rgba(75, 0, 130,0.3)",
+    // "rgba(148,0,211,0.3)",
+    // ],
+
+    "breadcrumbs.enabled": false,
+
+    "files.eol": "\n",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+
+    // auto-completes jsx elements
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+}
